@@ -21,7 +21,6 @@ This project follows the **CDS IITGN (Placement Cell of IIT Gandhinagar)** templ
 
 ### **1. Input Your Details**
 Fill out the form on the left. As you type, your resume will update in real-time on the right-hand side.  
-![Form](./images/form_preview.png)
 
 ### **2. Copy LaTeX Code**
 Once complete, click the **Copy LaTeX Code to Clipboard** button.  
