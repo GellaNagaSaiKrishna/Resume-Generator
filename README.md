@@ -24,7 +24,6 @@ Fill out the form on the left. As you type, your resume will update in real-time
 
 ### **2. Copy LaTeX Code**
 Once complete, click the **Copy LaTeX Code to Clipboard** button.  
-![Form](./images/latex_copy_button.png)
 
 ### **3. Compile Your Resume**
 Paste the LaTeX code into your preferred editor (e.g., Overleaf), compile, and download your professional resume.  
